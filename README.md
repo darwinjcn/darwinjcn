@@ -1,7 +1,15 @@
 # 👋 Hola, soy Darwin Colmenares
 
-Soy un profesional con experiencia en diversas líneas de negocio, actualmente realizando una transición laboral completa hacia el **área de la Tecnología**. Me especializo en el desarrollo Full-Stack y el análisis de datos, buscando aplicar mi visión de negocio en soluciones de código eficientes y robustas.
+**Desarrollador Full-Stack & Analista BI.** Con experiencia en soluciones de negocio, me enfoco en la construcción de sistemas eficientes usando **Python (Django)** y **JavaScript (React)**. Actualmente realizando una transición laboral completa hacia el área de la Tecnología. 🚀
 
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
+</p>
 ---
 
 ### 🛠️ Stack y Herramientas
@@ -26,7 +34,7 @@ Aquí puedes ver mis proyectos más recientes y relevantes que demuestran mi cap
 | **[sistema-gestion-combustible](https://github.com/darwinjcn/sistema-gestion-combustible)**| Desarrollo de un sistema web Full-Stack (57% JS / 40% Python) para la gestión y control de combustible. **Incluye documentación detallada con diagramas UML.** | **Django**, **React**, PostgreSQL |
 | **[python-portfolio](https://github.com/darwinjcn/python-portfolio)**| Colección de scripts, ejercicios y pequeños proyectos enfocados en la resolución de problemas con Python. | Python, Pandas, NumPy |
 | **[powerbi-proyectos](https://github.com/darwinjcn/powerbi-proyectos)**| Informes, modelos de datos y dashboards de Business Intelligence desarrollados para la toma de decisiones. | Power BI, DAX, M |
-| **ONG_Ayuda_Accion**| Proyecto de desarrollo y ayuda humanitaria que refleja mi compromiso con soluciones sociales. | HTML, JavaScript |
+| **[ONG_Ayuda_Accion](https://github.com/darwinjcn/ONG_Ayuda_Accion)**| Proyecto de desarrollo y ayuda humanitaria que refleja mi compromiso con soluciones sociales. | HTML, JavaScript |
 | **[evaluacion1-programacion3](https://github.com/darwinjcn/evaluacion1-programacion3)**| Muestra de ejercicios o evaluaciones específicas de programación. | HTML, CSS |
 
 ---
