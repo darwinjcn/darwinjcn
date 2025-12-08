@@ -44,7 +44,7 @@ Aquí puedes ver mis proyectos más recientes y relevantes que demuestran mi cap
 ¡Conectemos! Siempre estoy abierto a discutir nuevas oportunidades de colaboración o proyectos.
 
 * **Email:** colmenaresdarwin06@gmail.com
-* **WhatsApp:** [wa.me/584265152896](https://wa.me/584265152896)
+* **WhatsApp:** [WhatsApp (Click para Chatear)](https://wa.me/584265152896)
 * **LinkedIn:** [linkedin.com/in/darwin-colmenares](https://www.linkedin.com/in/darwin-colmenares/)
 * **GitHub:** github.com/darwinjcn
 
