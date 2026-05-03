@@ -32,7 +32,7 @@ Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el a
 
 ---
 
-### 🚀 Proyectos Destacados (Mi Portafolio)
+### 🚀 Proyectos Destacados
 
 Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para entregar soluciones completas.
 
