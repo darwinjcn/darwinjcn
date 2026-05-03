@@ -19,11 +19,11 @@
 Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el análisis de datos.
 
 * **Lenguajes Core:** Python (Backend, Scripting), JavaScript (Frontend), HTML/CSS.
-* **Frameworks / Backend:** Django, Django REST Framework (DRF), React, Ionic.
-* **Bases de Datos:** PostgreSQL, SQLite (Dev), SQL.
+* **Frameworks / Backend:** Django, React, Node.js, Express, TypeScript.
+* **Bases de Datos:** PostgreSQL, SQLite, SQL Server, BigQuery.
 * **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
 * **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
-* **Herramientas de Diseño/Docs:** PlantUML, Mermaid, Material-UI.
+* **Herramientas de Diseño/Docs:** PlantUML, Mermaid, Docker.
 
 ---
 
@@ -35,21 +35,21 @@ Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para e
 * **Descripción:** Sistema web Full-Stack para la gestión y control de combustible. Incluye documentación detallada con diagramas UML.
 * **Tecnologías:** Django, React, PostgreSQL.
 
-#### 🏥 [sistema_salud](https://github.com/darwinjcn/sistema_salud)
-* **Descripción:** Proyecto de pasantías del NEA - CANTV. Desarrollo de plataforma para gestión de servicios de salud.
-* **Tecnologías:** Python, HTML, JavaScript.
+#### 🧪 [node-express-typescript-logic](https://github.com/darwinjcn/node-express-typescript-logic)
+* **Descripción:** Laboratorio técnico sobre enrutamiento dinámico y tipado estricto. Implementación de API REST y arquitectura dockerizada.
+* **Tecnologías:** Node.js, TypeScript, Express, Docker.
 
-#### 🐍 [python-portfolio](https://github.com/darwinjcn/python-portfolio)
-* **Descripción:** Colección de scripts y proyectos enfocados en la resolución de problemas lógicos y automatización con Python.
-* **Tecnologías:** Python, Pandas, NumPy.
+#### 🏥 [sistema_salud](https://github.com/darwinjcn/sistema_salud)
+* **Descripción:** Proyecto de pasantías (NEA - CANTV). Plataforma para la gestión de servicios de salud y administración de usuarios.
+* **Tecnologías:** Python, HTML, JavaScript.
 
 #### 📊 [powerbi-proyectos](https://github.com/darwinjcn/powerbi-proyectos)
 * **Descripción:** Dashboards de Business Intelligence desarrollados para la toma de decisiones estratégicas.
 * **Tecnologías:** Power BI, DAX, M.
 
-#### 🤝 [ONG_Ayuda_Accion](https://github.com/darwinjcn/ONG_Ayuda_Accion)
-* **Descripción:** Proyecto de desarrollo y ayuda humanitaria que refleja mi compromiso con soluciones sociales.
-* **Tecnologías:** HTML, JavaScript.
+#### 🐍 [python-portfolio](https://github.com/darwinjcn/python-portfolio)
+* **Descripción:** Colección de scripts y automatizaciones enfocados en la resolución de problemas lógicos con Python.
+* **Tecnologías:** Python, Pandas, NumPy.
 
 ---
 
