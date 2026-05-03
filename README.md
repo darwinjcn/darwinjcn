@@ -1,6 +1,6 @@
 # 👋 Hola, soy Darwin Colmenares
 
-**Desarrollador Full-Stack & Analista BI.** Con experiencia en soluciones de negocio, me enfoco en la construcción de sistemas eficientes usando **Python (Django)** y **JavaScript (React)**. Actualmente realizando una transición laboral completa hacia el área de la Tecnología. 🚀
+**Desarrollador Full-Stack & Analista BI.** Con experiencia en soluciones de negocio, me enfoco en la construcción de sistemas eficientes usando **Python (Django)** y **JavaScript (React)**. 🚀
 
 ---
 
