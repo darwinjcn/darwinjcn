@@ -1,75 +1,72 @@
-# Darwin Colmenares
+# 👋 Hola, soy Darwin Colmenares
 
-**Full-Stack Developer & Data Analyst** · Contador Público + Ingeniero
-Informático
+**Full-Stack Developer & Data Analyst** · Contador Público + Ingeniero Informático.🚀
 
-Construyo soluciones técnicas que responden a problemas reales de negocio.
-Mi formación dual me permite diseñar desde el modelado de datos hasta la
-interfaz de usuario, entendiendo tanto el lenguaje financiero como el
+
+Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el
 técnico.
 
 ---
 
-## Stack
-
-| Área | Tecnologías |
-|------|------------|
-| **Backend** | Python, Django, Node.js, Express |
-| **Frontend** | JavaScript, React.js, TypeScript, HTML/CSS |
-| **Datos** | PostgreSQL, SQL Server, SQLite, Power BI (DAX, M) |
-| **DevOps** | Docker, Git, GitHub Actions |
-| **Herramientas** | Pandas, NumPy, PlantUML, Mermaid, N8N |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
+</p>
 
 ---
 
-## Proyectos
+### 🛠️ Stack y Herramientas
 
-### [Sistema de Gestión de Combustible](https://github.com/darwinjcn/[repo-slug])
-Sistema web Full-Stack para el control y gestión de combustible.
-Incluye documentación con diagramas UML (casos de uso, secuencia,
-clases) y arquitectura cliente-servidor.
+Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el análisis de datos.
 
-`Django` · `React` · `PostgreSQL` · `PlantUML`
-
----
-
-### [API REST con TypeScript y Docker](https://github.com/darwinjcn/[repo-slug])
-Laboratorio técnico sobre enrutamiento dinámico, tipado estricto y
-arquitectura containerizada. Implementación de API REST documentada.
-
-`Node.js` · `TypeScript` · `Express` · `Docker`
+* **Lenguajes Core:** Python (Backend, Scripting), JavaScript (Frontend), HTML/CSS.
+* **Frameworks / Backend:** Django, React, Node.js, Express, TypeScript.
+* **Bases de Datos:** PostgreSQL, SQLite, SQL Server, BigQuery.
+* **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
+* **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
+* **Herramientas:** PlantUML, Mermaid, Docker, SAP, N8N.
+* **Gestores de Proeycto:** Trello, ClickUp, Jira.
 
 ---
 
-### [Plataforma de Servicios de Salud](https://github.com/darwinjcn/[repo-slug])
-Proyecto desarrollado durante pasantías (NEA - CANTV). Sistema para
-la gestión de servicios de salud y administración de usuarios.
+### 🚀 Proyectos Destacados (Mi Portafolio)
 
-`Python` · `JavaScript` · `HTML`
+Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para entregar soluciones completas.
+
+#### ⛽ [sistema-gestion-combustible](https://github.com/darwinjcn/sistema-gestion-combustible)
+* **Descripción:** Sistema web Full-Stack para la gestión y control de combustible. Incluye documentación detallada con diagramas UML.
+* **Tecnologías:** Django, React, PostgreSQL.
+
+#### 🧪 [node-express-typescript-logic](https://github.com/darwinjcn/node-express-typescript-logic)
+* **Descripción:** Laboratorio técnico sobre enrutamiento dinámico y tipado estricto. Implementación de API REST y arquitectura dockerizada.
+* **Tecnologías:** Node.js, TypeScript, Express, Docker.
+
+#### 🏥 [sistema_salud](https://github.com/darwinjcn/sistema_salud)
+* **Descripción:** Proyecto de pasantías (NEA - CANTV). Plataforma para la gestión de servicios de salud y administración de usuarios.
+* **Tecnologías:** Python, HTML, JavaScript.
+
+#### 📊 [powerbi-proyectos](https://github.com/darwinjcn/powerbi-proyectos)
+* **Descripción:** Dashboards de Business Intelligence desarrollados para la toma de decisiones estratégicas.
+* **Tecnologías:** Power BI, DAX, M.
+
+#### 🐍 [python-portfolio](https://github.com/darwinjcn/python-portfolio)
+* **Descripción:** Colección de scripts y automatizaciones enfocados en la resolución de problemas lógicos con Python.
+* **Tecnologías:** Python, Pandas, NumPy.
 
 ---
 
-### [Dashboards de Business Intelligence](https://github.com/darwinjcn/[repo-slug])
-Colección de dashboards ejecutivos para toma de decisiones
-estratégicas. Incluye modelos de datos, medidas DAX y transformaciones
-en Power Query.
+### 📬 Contacto y Redes
 
-`Power BI` · `DAX` · `M`
+¡Conectemos! Siempre estoy abierto a discutir nuevas oportunidades de colaboración.
 
----
+* **Email:** colmenaresdarwin06@gmail.com
+* **WhatsApp:** [WhatsApp (Click para Chatear)](https://wa.me/584265152896)
+* **LinkedIn:** [linkedin.com/in/darwin-colmenares](https://www.linkedin.com/in/darwin-colmenares/)
+* **GitHub:** [github.com/darwinjcn](https://github.com/darwinjcn)
 
-### [Scripts y Automatizaciones en Python](https://github.com/darwinjcn/[repo-slug])
-Colección de scripts enfocados en resolución de problemas lógicos,
-procesamiento de datos y automatización de tareas.
-
-`Python` · `Pandas` · `NumPy`
-
----
-
-## Contacto
-
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Email:** tu@email.com
-
-Disponibilidad inmediata para proyectos remotos (LATAM) o presencial
-en Caracas.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darwinjcn&style=flat-square&color=blue" alt="Perfil Views" />
+</div>
