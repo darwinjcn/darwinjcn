@@ -19,7 +19,7 @@
 Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el análisis de datos.
 
 * **Lenguajes Core:** Python (Backend, Scripting), JavaScript (Frontend), HTML/CSS.
-* **Frameworks / Backend:** Django, Django REST Framework (DRF), React.
+* **Frameworks / Backend:** Django, Django REST Framework (DRF), React, Ionic.
 * **Bases de Datos:** PostgreSQL, SQLite (Dev), SQL.
 * **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
 * **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
