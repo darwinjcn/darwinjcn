@@ -23,7 +23,7 @@ Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el a
 * **Bases de Datos:** PostgreSQL, SQLite, SQL Server, BigQuery.
 * **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
 * **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
-* **Herramientas de Diseño/Docs:** PlantUML, Mermaid, Docker.
+* **Herramientas:** PlantUML, Mermaid, Docker, SAP, N8N.
 * **Gestores de Proeycto:** Trello, ClickUp, Jira.
 
 ---
