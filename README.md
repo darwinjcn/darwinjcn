@@ -24,6 +24,7 @@ Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el a
 * **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
 * **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
 * **Herramientas de Diseño/Docs:** PlantUML, Mermaid, Docker.
+* **Gestores de Proeycto:** Trello, ClickUp, Jira.
 
 ---
 
