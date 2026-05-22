@@ -20,8 +20,8 @@ Construyo soluciones técnicas que responden a problemas reales de negocio. Mi f
 
 Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el análisis de datos.
 
-* **Lenguajes Core:** Python (Backend, Scripting), JavaScript (Frontend), HTML/CSS.
-* **Frameworks / Backend:** Django, React, Node.js, Express, TypeScript, **Ionic**, **Angular**.
+* **Lenguajes Core:** Python (Backend, Scripting), JavaScript (Frontend), HTML/CSS, PHP.
+* **Frameworks / Backend:** Django, React, Node.js, Express, TypeScript, **Laravel**, Ionic, Angular.
 * **Bases de Datos:** PostgreSQL, SQLite, SQL Server, BigQuery.
 * **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
 * **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
@@ -33,6 +33,10 @@ Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el a
 ### 🚀 Proyectos Destacados
 
 Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para entregar soluciones completas.
+
+#### 🛰️ [gcs-project](https://github.com/darwinjcn/gcs-project)
+* **Descripción:** Plataforma Web Centralizada para la Gestión de Contingencias Satelitales (CANTV). Diseñada para la monitorización y respuesta ante incidencias críticas.
+* **Tecnologías:** PHP, Laravel, PostgreSQL.
 
 #### ⛽ [sistema-gestion-combustible](https://github.com/darwinjcn/sistema-gestion-combustible)
 * **Descripción:** Sistema web Full-Stack para la gestión y control de combustible. Incluye documentación detallada con diagramas UML.
@@ -57,10 +61,6 @@ Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para e
 #### 📊 [powerbi-proyectos](https://github.com/darwinjcn/powerbi-proyectos)
 * **Descripción:** Dashboards de Business Intelligence desarrollados para la toma de decisiones estratégicas.
 * **Tecnologías:** Power BI, DAX, M.
-
-#### 🐍 [python-portfolio](https://github.com/darwinjcn/python-portfolio)
-* **Descripción:** Colección de scripts y automatizaciones enfocados en la resolución de problemas lógicos con Python.
-* **Tecnologías:** Python, Pandas, NumPy.
 
 ---
 
