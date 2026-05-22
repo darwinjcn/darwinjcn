@@ -1,10 +1,8 @@
 # 👋 Hola, soy Darwin Colmenares
 
-**Full-Stack Developer & Data Analyst** · Contador Público + Ingeniero Informático.🚀
+**Full-Stack Developer & Data Analyst** · Contador Público + Ingeniero Informático. 🚀
 
-
-Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el
-técnico.
+Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el técnico.
 
 ---
 
@@ -23,12 +21,12 @@ técnico.
 Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el análisis de datos.
 
 * **Lenguajes Core:** Python (Backend, Scripting), JavaScript (Frontend), HTML/CSS.
-* **Frameworks / Backend:** Django, React, Node.js, Express, TypeScript.
+* **Frameworks / Backend:** Django, React, Node.js, Express, TypeScript, **Ionic**, **Angular**.
 * **Bases de Datos:** PostgreSQL, SQLite, SQL Server, BigQuery.
 * **Análisis de Datos & BI:** Power BI, Excel, Pandas, NumPy.
 * **Control de Versiones:** Git, GitHub, CI/CD (GitHub Actions).
 * **Herramientas:** PlantUML, Mermaid, Docker, SAP, N8N.
-* **Gestores de Proeycto:** Trello, ClickUp, Jira.
+* **Gestores de Proyecto:** Trello, ClickUp, Jira.
 
 ---
 
@@ -43,6 +41,14 @@ Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para e
 #### 🧪 [node-express-typescript-logic](https://github.com/darwinjcn/node-express-typescript-logic)
 * **Descripción:** Laboratorio técnico sobre enrutamiento dinámico y tipado estricto. Implementación de API REST y arquitectura dockerizada.
 * **Tecnologías:** Node.js, TypeScript, Express, Docker.
+
+#### 💰 [crypto-monitor](https://github.com/darwinjcn/crypto-monitor)
+* **Descripción:** Plataforma de monitoreo de criptoactivos en tiempo real. Enfoque en visualización de datos y consumo de APIs financieras.
+* **Tecnologías:** JavaScript, APIs Financieras.
+
+#### 📱 [mi-app-ionic-app](https://github.com/darwinjcn/mi-app-ionic-app)
+* **Descripción:** Aplicación móvil multiplataforma con menú lateral y sistema de navegación estructurado.
+* **Tecnologías:** Ionic, Angular, TypeScript.
 
 #### 🏥 [sistema_salud](https://github.com/darwinjcn/sistema_salud)
 * **Descripción:** Proyecto de pasantías (NEA - CANTV). Plataforma para la gestión de servicios de salud y administración de usuarios.
