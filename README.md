@@ -12,6 +12,7 @@ Construyo soluciones técnicas que responden a problemas reales de negocio. Mi f
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -33,6 +34,10 @@ Mi experiencia técnica se centra en el desarrollo de sistemas integrados y el a
 ### 🚀 Proyectos Destacados
 
 Aquí puedes ver mis proyectos más recientes que demuestran mi capacidad para entregar soluciones completas.
+
+#### 🐧 [linux-terminal-guide](https://github.com/darwinjcn/linux-terminal-guide)
+* **Descripción:** Guía interactiva de los 10 comandos esenciales de Linux para Ingenieros en Informática.
+* **Tecnologías:** Linux, Bash, Markdown.
 
 #### 🛰️ [gcs-project](https://github.com/darwinjcn/gcs-project)
 * **Descripción:** Plataforma Web Centralizada para la Gestión de Contingencias Satelitales (CANTV). Diseñada para la monitorización y respuesta ante incidencias críticas.
