@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=1A7F64&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst)](https://git.io/typing-svg)
+# 👋 Darwin Colmenares
+### Full-Stack Developer & Data Analyst
 
-<p>
-<strong>Contador Público + Ingeniero Informático</strong><br/>
-Construyo soluciones técnicas que responden a problemas reales de negocio.<br/>
-Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario,<br/>
+**Contador Público + Ingeniero Informático** 🚀
+
+Construyo soluciones técnicas que responden a problemas reales de negocio.
+Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario,
 entendiendo tanto el lenguaje financiero como el técnico.
-</p>
 
 <br/>
 
-<!-- Tech Badges -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -25,33 +23,11 @@ entendiendo tanto el lenguaje financiero como el técnico.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-<br/><br/>
-
-<!-- Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darwinjcn&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=1A7F64&icon_color=1A7F64&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=darwinjcn&theme=tokyonight&background=0d1117&hide_border=true&ring=1A7F64&fire=1A7F64&currStreakLabel=1A7F64" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darwinjcn&bg_color=0d1117&color=1A7F64&line=1A7F64&point=f0f6fc&area=true&area_color=1A7F64&hide_border=true" width="100%" />
-
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-7e9b7b91-1f6a-4469-8d0a-446ab2e2a0d3.gif" width="28" /> Sobre Mí
-
-Mi formación dual — **Contador Público** e **Ingeniero Informático** — me permite diseñar soluciones de punta a punta: desde el modelado de datos y la lógica de negocio hasta la interfaz de usuario final.
-
-| Área | Enfoque |
-|:---|:---|
-| **Desarrollo Full-Stack** | Sistemas integrados con Django, Laravel, React, Angular, Node.js |
-| **Análisis de Datos & BI** | Dashboards en Power BI, ETL, modelado dimensional |
-| **Documentación Técnica** | Diagramas UML, PlantUML, Mermaid, arquitectura de sistemas |
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-32fc27aa-6a7c-4b24-b7d3-04e3b785081d.gif" width="28" /> Stack Técnico
+## 🛠️ Stack y Herramientas
 
 <table>
 <tr>
@@ -118,7 +94,7 @@ Mi formación dual — **Contador Público** e **Ingeniero Informático** — me
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257455-93ed412d-c58a-4d4a-85a4-a99b5f7e34e5.gif" width="28" /> Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |:---|:---|:---|
@@ -134,11 +110,11 @@ Mi formación dual — **Contador Público** e **Ingeniero Informático** — me
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212280804-d5364581-b924-4a97-8a6a-7b4b014467dc.gif" width="28" /> Contacto & Links
+## 📬 Contacto & Links
 
 <div align="center">
 
-[![Portafolio](https://img.shields.io/badge/🌐_darwinjcn.github.io-1A7F64?style=flat-square&logo=googlechrome&logoColor=white)](https://darwinjcn.github.io/)
+[![🌐 Portafolio](https://img.shields.io/badge/darwinjcn.github.io-1A7F64?style=flat-square&logo=googlechrome&logoColor=white)](https://darwinjcn.github.io/)
 [![GitHub](https://img.shields.io/badge/darwinjcn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/darwinjcn)
 [![LinkedIn](https://img.shields.io/badge/Darwin_Colmenares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-colmenares/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/584265152896)
