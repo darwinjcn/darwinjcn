@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hola, soy Darwin Colmenares</h1>
+  <h1>👋 Hola, soy Darwin Colmenares</h1>
   <h3>🚀 Full-Stack Developer & Data Analyst</h3>
   <p><strong>Contador Público + Ingeniero Informático</strong></p>
   <p>Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el técnico.</p>
@@ -121,7 +121,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
+      <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
       <p>Dashboards de Business Intelligence para toma de decisiones estratégicas.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" />
@@ -130,12 +130,20 @@
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3>🤝 <a href="https://github.com/darwinjcn/sql_ong_ayuda_accion">sql_ong_ayuda_accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción" - gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍫 <a href="https://github.com/darwinjcn/sql_proyecto_willy_wonka">sql_proyecto_willy_wonka</a></h3>
+      <p>Sistema de gestión de BD relacional para la Fábrica de Chocolates Wonka Digital. Administra recetas, inventario de ingredientes, producción, empleados (Oompa Loompas), equipos y control de calidad.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
       </p>
     </td>
   </tr>
