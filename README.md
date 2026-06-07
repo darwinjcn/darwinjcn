@@ -30,7 +30,7 @@
         <li><strong>Lenguajes Core:</strong> Python, JavaScript, HTML/CSS, PHP</li>
         <li><strong>Backend:</strong> Django, Laravel, Node.js, Express</li>
         <li><strong>Frontend:</strong> React, Angular, Ionic, TypeScript</li>
-        <li><strong>Bases de Datos:</strong> PostgreSQL, SQLite, SQL Server, BigQuery</li>
+        <li><strong>Bases de Datos:</strong> PostgreSQL, MongoDB, SQLite, SQL Server, BigQuery</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -144,6 +144,17 @@
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3>🛰️ <a href="https://github.com/darwinjcn/apigcs-mongodb-nosql">apigcs-mongodb-nosql</a></h3>
+      <p>Base de datos NoSQL MongoDB para gestión de contingencias satelitales. Implementación de operadores avanzados de consulta, agregación y filtrado de datos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/NoSQL-000000?style=flat-square&logo=database&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
