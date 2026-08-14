@@ -169,6 +169,17 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
+      <p>Juego clásico de "Tres en Raya" en consola. Incluye validación robusta de entradas, lógica de victoria/empate y oponente aleatorio, con arquitectura modular y limpia en Python.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Game_Dev-FF0000?style=flat-square&logo=unity&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
