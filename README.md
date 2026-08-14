@@ -49,9 +49,10 @@
 
 ## 🚀 Proyectos Destacados
 
-<table>
+<div style="overflow-x: auto;">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
       <p>Guía interactiva de los 10 comandos esenciales de Linux para Ingenieros en Informática.</p>
       <p>
@@ -60,7 +61,7 @@
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🛰️ <a href="https://github.com/darwinjcn/gcs-project">gcs-project</a></h3>
       <p>Plataforma Web Centralizada para la Gestión de Contingencias Satelitales (CANTV).</p>
       <p>
@@ -71,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>⛽ <a href="https://github.com/darwinjcn/sistema-gestion-combustible">sistema-gestion-combustible</a></h3>
       <p>Sistema web Full-Stack para gestión y control de combustible con documentación UML.</p>
       <p>
@@ -80,7 +81,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🧪 <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
       <p>Laboratorio técnico sobre enrutamiento dinámico y tipado estricto con API REST.</p>
       <p>
@@ -92,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>💰 <a href="https://github.com/darwinjcn/crypto-monitor">crypto-monitor</a></h3>
       <p>Plataforma de monitoreo de criptoactivos en tiempo real con visualización de datos.</p>
       <p>
@@ -100,7 +101,7 @@
         <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=api&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>📱 <a href="https://github.com/darwinjcn/mi-app-ionic-app">mi-app-ionic-app</a></h3>
       <p>Aplicación móvil multiplataforma con menú lateral y navegación estructurada.</p>
       <p>
@@ -111,7 +112,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
       <p>Proyecto de pasantías (NEA - CANTV). Plataforma para gestión de servicios de salud.</p>
       <p>
@@ -120,7 +121,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
       <p>Dashboards de Business Intelligence para toma de decisiones estratégicas.</p>
       <p>
@@ -130,7 +131,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🤝 <a href="https://github.com/darwinjcn/sql_ong_ayuda_accion">sql_ong_ayuda_accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción" - gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
@@ -138,7 +139,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🍫 <a href="https://github.com/darwinjcn/sql_proyecto_willy_wonka">sql_proyecto_willy_wonka</a></h3>
       <p>Sistema de gestión de BD relacional para la Fábrica de Chocolates Wonka Digital. Administra recetas, inventario de ingredientes, producción, empleados (Oompa Loompas), equipos y control de calidad.</p>
       <p>
@@ -148,7 +149,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🛰️ <a href="https://github.com/darwinjcn/apigcs-mongodb-nosql">apigcs-mongodb-nosql</a></h3>
       <p>Base de datos NoSQL MongoDB para gestión de contingencias satelitales. Implementación de operadores avanzados de consulta, agregación y filtrado de datos.</p>
       <p>
@@ -157,7 +158,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="word-wrap: break-word; padding: 10px;">
       <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
       <p>Sistema de gestión integral para comedores universitarios. Aplicación full-stack que permite administrar estudiantes, platos, personal, menús semanales y compras en tiempo real, con interfaz moderna y responsive.</p>
       <p>
@@ -170,7 +171,7 @@
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="2">
+    <td width="100%" valign="top" colspan="2" style="word-wrap: break-word; padding: 10px;">
       <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
       <p>Juego clásico de "Tres en Raya" en consola. Incluye validación robusta de entradas, lógica de victoria/empate y oponente aleatorio, con arquitectura modular y limpia en Python.</p>
       <p>
@@ -181,6 +182,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
