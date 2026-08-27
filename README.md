@@ -1,21 +1,33 @@
 <div align="center">
-  <h1>👋 Hola, soy Darwin Colmenares</h1>
-  <h3>🚀 Full-Stack Developer & Data Analyst</h3>
-  <p><strong>Contador Público + Ingeniero Informático</strong></p>
-  <p>Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el técnico.</p>
+  <!-- Efecto de escritura animado (Interactividad) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst;Contador+P%C3%BAblico+%2B+Ingeniero+Inform%C3%A1tico" alt="Typing Animation" />
+  
+  <br/>
+  
+  <!-- Descripción con ancho máximo para mejor lectura en móvil -->
+  <p style="font-size: 1.05rem; max-width: 650px; margin: 1rem auto; color: #8b949e; line-height: 1.6;">
+    Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el técnico.
+  </p>
+
+  <br/>
+
+  <!-- Llamado a la acción (CTA) hacia tu portafolio -->
+  <a href="https://darwinjcn.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar Portafolio" />
+  </a>
 </div>
 
----
+<br/>
 
+<!-- Badges que se ajustan y saltan de línea naturalmente en móvil -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
