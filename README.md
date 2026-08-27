@@ -170,13 +170,22 @@
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
       <p>Juego clásico de "Tres en Raya" en consola. Incluye validación robusta de entradas, lógica de victoria/empate y oponente aleatorio, con arquitectura modular y limpia en Python.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Game_Dev-FF0000?style=flat-square&logo=unity&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/darwinjcn/nexus-bass-caja-pandora">nexus-bass-caja-pandora</a></h3>
+      <p>Orquestador de base de datos y motor de API Mocking 100% en el cliente (BaaS PoC). Gestiona esquemas, autenticación y endpoints REST simulados usando React y localStorage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
     </td>
   </tr>
