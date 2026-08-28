@@ -16,7 +16,29 @@
 
 <br/>
 
-<div align="center"><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a><a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a><a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a><a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a><a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" /></a><a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a></div>
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; margin: 4px;">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+</div>
 
 ---
 
@@ -34,7 +56,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Análisis & DevOps</h3>
+      <h3> Análisis & DevOps</h3>
       <ul>
         <li><strong>BI & Data:</strong> Power BI, Excel, Pandas, NumPy</li>
         <li><strong>Control de Versiones:</strong> Git, GitHub, CI/CD</li>
@@ -112,7 +134,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
       <p>Proyecto de pasantías (NEA - CANTV). Plataforma para gestión de servicios de salud.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -131,7 +153,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/sql_ong_ayuda_accion">sql_ong_ayuda_accion</a></h3>
+      <h3>🤝 <a href="https://github.com/darwinjcn/sql_ong_ayuda_accion">sql_ong_ayuda_accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción" - gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
@@ -149,7 +171,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/darwinjcn/apigcs-mongodb-nosql">apigcs-mongodb-nosql</a></h3>
+      <h3>️ <a href="https://github.com/darwinjcn/apigcs-mongodb-nosql">apigcs-mongodb-nosql</a></h3>
       <p>Base de datos NoSQL MongoDB para gestión de contingencias satelitales. Implementación de operadores avanzados de consulta, agregación y filtrado de datos.</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -158,7 +180,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
+      <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
       <p>Sistema de gestión integral para comedores universitarios. Aplicación full-stack que permite administrar estudiantes, platos, personal, menús semanales y compras en tiempo real, con interfaz moderna y responsive.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
