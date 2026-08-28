@@ -1,17 +1,14 @@
 <div align="center">
-  <!-- Efecto de escritura animado (Interactividad) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst;Contador+P%C3%BAblico+%2B+Ingeniero+Inform%C3%A1tico" alt="Typing Animation" />
   
   <br/>
   
-  <!-- Descripción con ancho máximo para mejor lectura en móvil -->
   <p style="font-size: 1.05rem; max-width: 650px; margin: 1rem auto; color: #8b949e; line-height: 1.6;">
     Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el técnico.
   </p>
 
   <br/>
 
-  <!-- Llamado a la acción (CTA) hacia tu portafolio -->
   <a href="https://darwinjcn.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar Portafolio" />
   </a>
@@ -19,7 +16,6 @@
 
 <br/>
 
-<!-- Badges que se ajustan y saltan de línea naturalmente en móvil -->
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -198,6 +194,18 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3>💊 <a href="https://github.com/darwinjcn/inventario-farmacia">inventario-farmacia</a></h3>
+      <p>Sistema de gestión de inventario para farmacias. Control de medicamentos, proveedores y movimientos de stock con una interfaz intuitiva y arquitectura robusta en Laravel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-000000?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
   </tr>
