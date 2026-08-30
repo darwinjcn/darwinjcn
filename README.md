@@ -194,7 +194,7 @@
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3>💊 <a href="https://github.com/darwinjcn/inventario-farmacia">inventario-farmacia</a></h3>
       <p>Sistema de gestión de inventario para farmacias. Control de medicamentos, proveedores y movimientos de stock con una interfaz intuitiva y arquitectura robusta en Laravel.</p>
       <p>
@@ -202,6 +202,14 @@
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Blade-000000?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
+      <p>Sistema CRUD robusto para gestión de usuarios. Implementa operaciones Create, Read, Update y Delete utilizando Python nativo y SQLite3, sin dependencias externas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
   </tr>
