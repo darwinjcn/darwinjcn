@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst;Contador+P%C3%BAblico+%2B+Ingeniero+Inform%C3%A1tico" alt="Typing Animation" />
   
-  <p style="font-size: 1.05rem; max-width: 650px; margin: 1rem auto; color: #8b949e; line-height: 1.6;">
-    Construyo soluciones técnicas que responden a problemas reales de negocio. Mi formación dual me permite diseñar desde el modelado de datos hasta la interfaz de usuario, entendiendo tanto el lenguaje financiero como el técnico.
+  <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto; color: #8b949e; line-height: 1.6;">
+    Analista de Datos y Desarrollador Full-Stack con formación dual en Contaduría Pública e Ingeniería Informática. Más de 5 años de experiencia en análisis de datos y finanzas en Retail, Banca y Logística, y experiencia reciente construyendo aplicaciones full-stack con Django, React y PostgreSQL. Especializado en pipelines ETL con Python y dashboards ejecutivos en Power BI. <br/>
+    <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
 
   [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
@@ -10,32 +11,84 @@
 
 <br/>
 
-<div align="center">
+---
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+## 🎓 Formación Académica y Certificaciones
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Educación Formal</h3>
+      <ul>
+        <li><strong>Ingeniería en Informática</strong> (2025 - En curso)<br><em>UNETI, Caracas</em></li>
+        <li><strong>TSU en Informática</strong> (2023 - 2025)<br><em>UNETI, Caracas</em></li>
+        <li><strong>Licenciatura en Contaduría Pública</strong> (2019 - 2023)<br><em>UNEXCA, Caracas</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Certificaciones</h3>
+      <ul>
+        <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
+        <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
+        <li>🔄 <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Stack y Herramientas
 
-### 💻 Desarrollo Full-Stack
-- **Lenguajes:** Python, SQL, JavaScript, TypeScript, PHP
-- **Backend:** Django, Laravel, Node.js, Express
-- **Frontend:** React, HTML/CSS
-- **Bases de Datos:** PostgreSQL, SQL Server, BigQuery, MongoDB, SQLite
+### 💻 Lenguajes y Desarrollo Full-Stack
+<div align="center">
 
-### 📊 Datos, BI & DevOps
-- **Data & BI:** Power BI, DAX, Pandas, Power Query, Excel
-- **Cloud & ETL:** Azure Data Factory, AWS, Docker
-- **DevOps & Gestión:** Git, GitHub Actions, SAP ERP, Scrum
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+</div>
+
+### 📊 Datos, BI & Bases de Datos
+<div align="center">
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/es-es/sql-server)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+</div>
+
+### ☁️ Cloud, ETL & DevOps
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+</div>
+
+### 💼 Negocio e Idiomas
+<div align="center">
+
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
+[![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white)](https://scrumguides.org/)
+[![Inglés](https://img.shields.io/badge/Inglés-B1-4285F4?style=for-the-badge&logo=google-translate&logoColor=white)](#)
+[![Español](https://img.shields.io/badge/Español-Nativo-FF0000?style=for-the-badge&logo=google-translate&logoColor=white)](#)
+
+</div>
 
 ---
 
