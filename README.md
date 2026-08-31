@@ -12,12 +12,12 @@
 
 ---
 
-## 🎓 Formación Académica y Certificaciones
+##  Formación Académica y Certificaciones
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ Educación Formal</h3>
+      <h3>️ Educación Formal</h3>
       <ul>
         <li><strong>Ingeniería en Informática</strong> (2025 - En curso)<br><em>UNETI, Caracas</em></li>
         <li><strong>TSU en Informática</strong> (2023 - 2025)<br><em>UNETI, Caracas</em></li>
@@ -82,15 +82,18 @@
 
 </div>
 
-### 🤖 Generativa & Herramientas Avanzadas
+### 🤖 IA Generativa & Herramientas Avanzadas
 <div align="center">
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
-[![Meta Llama](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://llama.meta.com/)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-10B981?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=for-the-badge&logo=alibabacloud&logoColor=white)](https://www.alibabacloud.com/en/product/ai-model-service)
+[![Mistral AI](https://img.shields.io/badge/Mistral_AI-FB7703?style=for-the-badge&logo=mistralai&logoColor=white)](https://mistral.ai/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com/)
+[![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0.dev/)
 
 </div>
 
@@ -106,7 +109,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <table>
   <tr>
@@ -131,7 +134,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
       <p>Backend con enrutamiento dinámico, tipado estricto y arquitectura dockerizada. Laboratorio técnico API REST.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
@@ -210,7 +213,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ong-ayuda-accion</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ong-ayuda-accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción". Gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" /><br>
@@ -228,7 +231,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
       <p>Proyecto de pasantías (NEA - CANTV). Plataforma para gestión digital de citas médicas y control de acceso RBAC.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
@@ -236,7 +239,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
       <p>Juego clásico de "Tres en Raya" en consola. Validación robusta de entradas, lógica de victoria y oponente aleatorio.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
