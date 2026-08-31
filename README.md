@@ -11,7 +11,7 @@
     <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
 
-  [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
+  [![ Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
 </div>
 
 ---
@@ -29,11 +29,11 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3> Certificaciones</h3>
+      <h3>🏆 Certificaciones</h3>
       <ul>
         <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
         <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
-        <li>🔄 <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
+        <li> <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
       </ul>
     </td>
   </tr>
@@ -86,7 +86,7 @@
 
 </div>
 
-###  IA Generativa & Herramientas Avanzadas
+### 🤖 IA Generativa & Herramientas Avanzadas
 <div align="center">
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
@@ -101,19 +101,19 @@
 
 </div>
 
-### 💼 Negocio e Idiomas
+### 🔧 Frameworks & Librerías
 <div align="center">
 
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
-[![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white)](https://scrumguides.org/)
-[![Inglés](https://img.shields.io/badge/Inglés-B1-4285F4?style=for-the-badge&logo=google-translate&logoColor=white)](#)
-[![Español](https://img.shields.io/badge/Español-Nativo-FF0000?style=for-the-badge&logo=google-translate&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 <table>
   <tr>
@@ -121,7 +121,7 @@
       <h3>🛰️ <a href="https://github.com/darwinjcn/gcs-project">gcs-project</a></h3>
       <p>Plataforma centralizada para CANTV. Unifica gestión de fallas y mantenimientos satelitales con reportes en PDF.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
@@ -130,7 +130,7 @@
       <h3>⛽ <a href="https://github.com/darwinjcn/sistema-gestion-combustible">sistema-gestion-combustible</a></h3>
       <p>App full-stack con arquitectura cliente-servidor y API RESTful para gestión y control de combustible.</p>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
@@ -141,7 +141,7 @@
       <h3>🧪 <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
       <p>Backend con enrutamiento dinámico, tipado estricto y arquitectura dockerizada. Laboratorio técnico API REST.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
@@ -150,7 +150,7 @@
       <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
       <p>Dashboard interactivo para métricas clave del negocio y toma de decisiones. Incluye modelado dimensional.</p>
       <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" />
         <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
       </p>
@@ -161,17 +161,17 @@
       <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
       <p>Sistema de gestión integral full-stack para administrar estudiantes, platos, personal y menús en tiempo real.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/nexus-bass-caja-pandora">nexus-bass-caja-pandora</a></h3>
+      <h3>📦 <a href="https://github.com/darwinjcn/nexus-bass-caja-pandora">nexus-bass-caja-pandora</a></h3>
       <p>Orquestador de base de datos y motor de API Mocking 100% en el cliente (BaaS PoC) con React y localStorage.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
@@ -182,16 +182,16 @@
       <h3>💊 <a href="https://github.com/darwinjcn/inventario-farmacia">inventario-farmacia</a></h3>
       <p>Sistema de gestión de inventario para farmacias. Control de medicamentos, proveedores y movimientos de stock.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
+      <h3>🐍 <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
       <p>Sistema CRUD robusto para gestión de usuarios. Operaciones Create, Read, Update y Delete con Python y SQLite3.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
@@ -201,17 +201,17 @@
       <h3>🌐 <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">proyecto-web-php-bootstrap-javascript</a></h3>
       <p>Sistema web full-stack con autenticación y CRUD de productos. Validaciones en tiempo real y persistencia JSON.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
+      <h3>📈 <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
       <p>Colección de proyectos de análisis de datos, KPIs e inteligencia de negocios con dashboards interactivos.</p>
       <p>
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -220,7 +220,7 @@
       <h3>🤝 <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ong-ayuda-accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción". Gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
-        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
@@ -228,7 +228,7 @@
       <h3>🍫 <a href="https://github.com/darwinjcn/sql_proyecto_willy_wonka">sql_proyecto_willy_wonka</a></h3>
       <p>Sistema de gestión de BD relacional. Administra recetas, inventario, producción, empleados y control de calidad.</p>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
       </p>
     </td>
@@ -238,7 +238,7 @@
       <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
       <p>Proyecto de pasantías (NEA - CANTV). Plataforma para gestión digital de citas médicas y control de acceso RBAC.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
@@ -246,17 +246,17 @@
       <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
       <p>Juego clásico de "Tres en Raya" en consola. Validación robusta de entradas, lógica de victoria y oponente aleatorio.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
       <p>Guía interactiva de los 10 comandos esenciales de Linux para Ingenieros en Informática.</p>
       <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
       </p>
@@ -265,7 +265,7 @@
       <h3>📱 <a href="https://github.com/darwinjcn/mi-app-ionic-app">mi-app-ionic-app</a></h3>
       <p>Aplicación móvil multiplataforma con menú lateral y navegación estructurada.</p>
       <p>
-        <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
