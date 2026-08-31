@@ -11,12 +11,12 @@
     <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
 
-  [![ Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
+  [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
 </div>
 
 ---
 
-## 🎓 Formación Académica y Certificaciones
+##  Formación Académica y Certificaciones
 
 <table>
   <tr>
@@ -29,11 +29,11 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏆 Certificaciones</h3>
+      <h3> Certificaciones</h3>
       <ul>
         <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
         <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
-        <li> <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
+        <li>🔄 <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
       </ul>
     </td>
   </tr>
@@ -51,10 +51,20 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+</div>
+
+### 🔧 Frameworks & Librerías
+<div align="center">
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 </div>
 
@@ -101,19 +111,9 @@
 
 </div>
 
-### 🔧 Frameworks & Librerías
-<div align="center">
-
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-
-</div>
-
 ---
 
-##  Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <table>
   <tr>
@@ -147,7 +147,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
       <p>Dashboard interactivo para métricas clave del negocio y toma de decisiones. Incluye modelado dimensional.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" />
@@ -158,7 +158,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
+      <h3>️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
       <p>Sistema de gestión integral full-stack para administrar estudiantes, platos, personal y menús en tiempo real.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -198,7 +198,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">proyecto-web-php-bootstrap-javascript</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">proyecto-web-php-bootstrap-javascript</a></h3>
       <p>Sistema web full-stack con autenticación y CRUD de productos. Validaciones en tiempo real y persistencia JSON.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -207,7 +207,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
       <p>Colección de proyectos de análisis de datos, KPIs e inteligencia de negocios con dashboards interactivos.</p>
       <p>
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
@@ -253,7 +253,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
+      <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
       <p>Guía interactiva de los 10 comandos esenciales de Linux para Ingenieros en Informática.</p>
       <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
