@@ -1,23 +1,26 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst;Contador+P%C3%BAblico+%2B+Ingeniero+Inform%C3%A1tico" alt="Typing Animation" />
   
-  <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
-    <strong>Analista de Datos</strong> y <strong>Desarrollador Full-Stack</strong> con formación dual en <strong>Contaduría Pública</strong> e <strong>Ingeniería Informática</strong>. Cuento con más de <strong>5 años de experiencia</strong> liderando soluciones de <strong>análisis de datos</strong> y finanzas en sectores de <strong>Retail, Banca y Logística</strong>, complementado con el desarrollo reciente de aplicaciones escalables usando <strong>Django, React y PostgreSQL</strong>. Me especializo en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>. Mi mayor diferenciador competitivo: <strong>comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología</strong>.
+  <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto 0.25rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
+    <strong>Analista de Datos</strong> y <strong>Desarrollador Full-Stack</strong> con formación dual en <strong>Contaduría Pública</strong> e <strong>Ingeniería Informática</strong>.
+  </p>
+  
+  <p style="font-size: 1.05rem; max-width: 750px; margin: 0 auto 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
+    Cuento con más de <strong>5 años de experiencia</strong> liderando soluciones de <strong>análisis de datos</strong> y finanzas en sectores de <strong>Retail, Banca y Logística</strong>, complementado con el desarrollo reciente de aplicaciones escalables usando <strong>Django, React y PostgreSQL</strong>. Me especializo en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>. <br/>
+    <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
 
   [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
 </div>
 
-<br/>
-
 ---
 
-##  Formación Académica y Certificaciones
+## 🎓 Formación Académica y Certificaciones
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>️ Educación Formal</h3>
+      <h3>🏛️ Educación Formal</h3>
       <ul>
         <li><strong>Ingeniería en Informática</strong> (2025 - En curso)<br><em>UNETI, Caracas</em></li>
         <li><strong>TSU en Informática</strong> (2023 - 2025)<br><em>UNETI, Caracas</em></li>
@@ -109,7 +112,7 @@
 
 ---
 
-##  Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <table>
   <tr>
@@ -134,7 +137,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
+      <h3>🧪 <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
       <p>Backend con enrutamiento dinámico, tipado estricto y arquitectura dockerizada. Laboratorio técnico API REST.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
@@ -213,7 +216,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ong-ayuda-accion</a></h3>
+      <h3>🤝 <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ong-ayuda-accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción". Gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" /><br>
@@ -231,7 +234,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
+      <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
       <p>Proyecto de pasantías (NEA - CANTV). Plataforma para gestión digital de citas médicas y control de acceso RBAC.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
@@ -239,11 +242,31 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
+      <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
       <p>Juego clásico de "Tres en Raya" en consola. Validación robusta de entradas, lógica de victoria y oponente aleatorio.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
+      <p>Guía interactiva de los 10 comandos esenciales de Linux para Ingenieros en Informática.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/darwinjcn/mi-app-ionic-app">mi-app-ionic-app</a></h3>
+      <p>Aplicación móvil multiplataforma con menú lateral y navegación estructurada.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
   </tr>
