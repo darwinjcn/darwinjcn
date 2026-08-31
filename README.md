@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst;Contador+P%C3%BAblico+%2B+Ingeniero+Inform%C3%A1tico" alt="Typing Animation" />
   
-  <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto; color: #8b949e; line-height: 1.6;">
-    Analista de Datos y Desarrollador Full-Stack con formación dual en Contaduría Pública e Ingeniería Informática. Más de 5 años de experiencia en análisis de datos y finanzas en Retail, Banca y Logística, y experiencia reciente construyendo aplicaciones full-stack con Django, React y PostgreSQL. Especializado en pipelines ETL con Python y dashboards ejecutivos en Power BI. <br/>
-    <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
+  <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
+    <strong>Analista de Datos</strong> y <strong>Desarrollador Full-Stack</strong> con formación dual en <strong>Contaduría Pública</strong> e <strong>Ingeniería Informática</strong>. Cuento con más de <strong>5 años de experiencia</strong> liderando soluciones de <strong>análisis de datos</strong> y finanzas en sectores de <strong>Retail, Banca y Logística</strong>, complementado con el desarrollo reciente de aplicaciones escalables usando <strong>Django, React y PostgreSQL</strong>. Me especializo en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>. Mi mayor diferenciador competitivo: <strong>comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología</strong>.
   </p>
 
   [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
@@ -59,12 +58,15 @@
 <div align="center">
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/es-es/sql-server)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 </div>
 
@@ -77,6 +79,17 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+</div>
+
+### 🤖 Generativa & Herramientas Avanzadas
+<div align="center">
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 
 </div>
 
