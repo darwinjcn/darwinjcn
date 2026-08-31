@@ -6,7 +6,8 @@
   </p>
   
   <p style="font-size: 1.05rem; max-width: 750px; margin: 0 auto 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
-    Cuento con más de <strong>5 años de experiencia</strong> liderando soluciones de <strong>análisis de datos</strong> y finanzas en sectores de <strong>Retail, Banca y Logística</strong>, complementado con el desarrollo reciente de aplicaciones escalables usando <strong>Django, React y PostgreSQL</strong>. Me especializo en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>. <br/>
+    Cuento con más de <strong>5 años de experiencia</strong> liderando soluciones de <strong>análisis de datos</strong> y finanzas en sectores de <strong>Retail, Banca y Logística</strong>, complementado con el desarrollo reciente de aplicaciones escalables usando <strong>Django, React y PostgreSQL</strong>. Me especializo en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>.
+    <br/><br/>
     <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
 
@@ -28,7 +29,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏆 Certificaciones</h3>
+      <h3> Certificaciones</h3>
       <ul>
         <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
         <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
@@ -85,7 +86,7 @@
 
 </div>
 
-### 🤖 IA Generativa & Herramientas Avanzadas
+###  IA Generativa & Herramientas Avanzadas
 <div align="center">
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
@@ -167,7 +168,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/darwinjcn/nexus-bass-caja-pandora">nexus-bass-caja-pandora</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/nexus-bass-caja-pandora">nexus-bass-caja-pandora</a></h3>
       <p>Orquestador de base de datos y motor de API Mocking 100% en el cliente (BaaS PoC) con React y localStorage.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
@@ -187,7 +188,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
       <p>Sistema CRUD robusto para gestión de usuarios. Operaciones Create, Read, Update y Delete con Python y SQLite3.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
@@ -206,7 +207,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
       <p>Colección de proyectos de análisis de datos, KPIs e inteligencia de negocios con dashboards interactivos.</p>
       <p>
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /><br>
