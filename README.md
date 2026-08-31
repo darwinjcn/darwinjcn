@@ -24,12 +24,12 @@
 
 ---
 
-## 🛠️ Stack y Herramientas
+## ️ Stack y Herramientas
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Desarrollo</h3>
+      <h3> Desarrollo</h3>
       <ul>
         <li><strong>Lenguajes Core:</strong> Python, JavaScript, HTML/CSS, PHP</li>
         <li><strong>Backend:</strong> Django, Laravel, Node.js, Express</li>
@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
       <p>Guía interactiva de los 10 comandos esenciales de Linux para Ingenieros en Informática.</p>
       <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/sistema_salud">sistema_salud</a></h3>
       <p>Proyecto de pasantías (NEA - CANTV). Plataforma para gestión de servicios de salud.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/darwinjcn/sql_ong_ayuda_accion">sql_ong_ayuda_accion</a></h3>
+      <h3>🤝 <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ong-ayuda-accion</a></h3>
       <p>Base de datos SQL para ONG "Ayuda en Acción" - gestión de proyectos de desarrollo y ayuda humanitaria.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
@@ -162,7 +162,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
+      <h3>️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
       <p>Sistema de gestión integral para comedores universitarios. Aplicación full-stack que permite administrar estudiantes, platos, personal, menús semanales y compras en tiempo real, con interfaz moderna y responsive.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -210,6 +210,18 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3>🌐 <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">proyecto-web-php-bootstrap-javascript</a></h3>
+      <p>Sistema web full-stack con autenticación de usuarios y CRUD de productos. Desarrollado con PHP, Bootstrap 5 y JavaScript, incluye validaciones en tiempo real, diseño responsive y persistencia en JSON.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
       </p>
     </td>
   </tr>
