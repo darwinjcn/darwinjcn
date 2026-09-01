@@ -16,7 +16,7 @@
 
 ---
 
-## 🎓 Formación Académica y Certificaciones
+##  Formación Académica y Certificaciones
 
 <table>
   <tr>
@@ -32,7 +32,7 @@
       <h3>🏆 Certificaciones</h3>
       <ul>
         <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
-        <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
+        <li> <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
         <li>🔄 <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
       </ul>
     </td>
@@ -58,6 +58,7 @@
 <div align="center">
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -187,7 +188,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
       <p>Sistema CRUD robusto para gestión de usuarios. Operaciones Create, Read, Update y Delete con Python y SQLite3.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
