@@ -16,7 +16,7 @@
 
 ---
 
-##  Formación Académica y Certificaciones
+## 🎓 Formación Académica y Certificaciones
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3> Certificaciones</h3>
+      <h3>🏆 Certificaciones</h3>
       <ul>
         <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
         <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
@@ -64,7 +64,7 @@
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
 
 </div>
 
@@ -72,7 +72,6 @@
 <div align="center">
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -103,7 +102,7 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-10B981?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
-[![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=for-the-badge&logo=alibabacloud&logoColor=white)](https://www.alibabacloud.com/en/product/ai-model-service)
+[![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=for-the-badge&logo=alibabacloud&logoColor=white)](https://qwenlm.github.io/)
 [![Mistral AI](https://img.shields.io/badge/Mistral_AI-FB7703?style=for-the-badge&logo=mistralai&logoColor=white)](https://mistral.ai/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com/)
@@ -147,7 +146,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
+      <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-proyectos</a></h3>
       <p>Dashboard interactivo para métricas clave del negocio y toma de decisiones. Incluye modelado dimensional.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" />
@@ -158,7 +157,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
+      <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">comedor-universitario</a></h3>
       <p>Sistema de gestión integral full-stack para administrar estudiantes, platos, personal y menús en tiempo real.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -198,7 +197,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">proyecto-web-php-bootstrap-javascript</a></h3>
+      <h3>🌐 <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">proyecto-web-php-bootstrap-javascript</a></h3>
       <p>Sistema web full-stack con autenticación y CRUD de productos. Validaciones en tiempo real y persistencia JSON.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -207,7 +206,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
+      <h3>📈 <a href="https://github.com/darwinjcn/excel-proyectos">excel-proyectos</a></h3>
       <p>Colección de proyectos de análisis de datos, KPIs e inteligencia de negocios con dashboards interactivos.</p>
       <p>
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
