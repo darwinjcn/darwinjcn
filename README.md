@@ -8,7 +8,6 @@
   <p style="font-size: 1.05rem; max-width: 750px; margin: 0 auto 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
     Especializado en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>. <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
-</div>
 
   [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
 </div>
