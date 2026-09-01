@@ -16,7 +16,7 @@
 
 ---
 
-##  Formación Académica y Certificaciones
+## 🎓 Formación Académica y Certificaciones
 
 <table>
   <tr>
@@ -32,7 +32,7 @@
       <h3>🏆 Certificaciones</h3>
       <ul>
         <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
-        <li> <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
+        <li>📊 <strong>Datos:</strong> Power BI & Excel Avanzado, SQL Server & Python para Data Science</li>
         <li>🔄 <strong>Metodologías:</strong> Agile Explorer (IBM)</li>
       </ul>
     </td>
@@ -115,7 +115,7 @@
 
 ## 🚀 Proyectos Destacados
 
-<table>
+<table style="font-size: 13px; width: 100%;">
   <tr>
     <td width="50%" valign="top">
       <h3>🛰️ <a href="https://github.com/darwinjcn/gcs-project">gcs-project</a></h3>
@@ -127,7 +127,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⛽ <a href="https://github.com/darwinjcn/sistema-gestion-combustible">sistema-gestion-combustible</a></h3>
+      <h3> <a href="https://github.com/darwinjcn/sistema-gestion-combustible">sistema-gestion-combustible</a></h3>
       <p>App full-stack con arquitectura cliente-servidor y API RESTful para gestión y control de combustible.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
