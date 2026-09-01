@@ -1,15 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Full-Stack+Developer+%26+Data+Analyst;Contador+P%C3%BAblico+%2B+Ingeniero+Inform%C3%A1tico" alt="Typing Animation" />
-  
+
   <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto 0.25rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
-    <strong>Analista de Datos</strong> y <strong>Desarrollador Full-Stack</strong> con formación dual en <strong>Contaduría Pública</strong> e <strong>Ingeniería Informática</strong>.
+    <strong>Full-Stack Developer & Data Analyst</strong> con formación dual en <strong>Contaduría Pública</strong> e <strong>Ingeniería Informática</strong>. He liderado durante más de <strong>5 años</strong> proyectos de datos y finanzas en los sectores de <strong>Retail, Banca y Logística</strong>, y desarrollo aplicaciones web escalables usando <strong>Django, React y PostgreSQL</strong>.
   </p>
-  
+
   <p style="font-size: 1.05rem; max-width: 750px; margin: 0 auto 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
-    Cuento con más de <strong>5 años de experiencia</strong> liderando soluciones de <strong>análisis de datos</strong> y finanzas en sectores de <strong>Retail, Banca y Logística</strong>, complementado con el desarrollo reciente de aplicaciones escalables usando <strong>Django, React y PostgreSQL</strong>. Me especializo en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>.
-    <br/><br/>
-    <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
+    Especializado en la construcción de <strong>pipelines ETL con Python</strong> y <strong>dashboards ejecutivos en Power BI</strong>. <strong>Mi diferenciador competitivo:</strong> comprendo las necesidades del negocio desde la contabilidad y las resuelvo de manera escalable desde la tecnología.
   </p>
+</div>
 
   [![🚀 Ver Mi Portafolio](https://img.shields.io/badge/🚀_Ver_Mi_Portafolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
 </div>
