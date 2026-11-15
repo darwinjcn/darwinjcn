@@ -1,4 +1,15 @@
 <div align="center">
+  
+  <!-- Selector de Idioma -->
+  <div style="margin-bottom: 1rem;">
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/🇪🇸_Español-FFD700?style=for-the-badge&logo=google-translate&logoColor=black" alt="Español" />
+    </a>
+    <a href="README_en.md">
+      <img src="https://img.shields.io/badge/🇺🇸_English-0052CC?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" />
+    </a>
+  </div>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hola,+soy+Darwin+Colmenares;Ingeniero+Informático+%26+Data+Analyst;Desarrollador+Full-Stack+%2B+IA" alt="Typing Animation" />
   
   <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto 0.25rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
