@@ -1,0 +1,312 @@
+<div align="center">
+  
+  <!-- Language Selector -->
+  <div style="margin-bottom: 1rem;">
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/🇪🇸_Español-FFD700?style=for-the-badge&logo=google-translate&logoColor=black" alt="Español" />
+    </a>
+    <a href="README_en.md">
+      <img src="https://img.shields.io/badge/🇺🇸_English-0052CC?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" />
+    </a>
+  </div>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=a3e635&center=true&vCenter=true&width=600&lines=Hi,+I'm+Darwin+Colmenares;Computer+Engineer+%26+Data+Analyst;Full-Stack+Developer+%2B+AI" alt="Typing Animation" />
+  
+  <p style="font-size: 1.05rem; max-width: 750px; margin: 1rem auto 0.25rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
+    <strong>Computer Engineer</strong> and <strong>Full-Stack Developer</strong> specialized in Data and Artificial Intelligence solutions. With over <strong>5 years of experience</strong> in Retail, Banking, and Logistics, I design client-server architectures, RESTful APIs, and robust ETL pipelines.
+  </p>
+  
+  <p style="font-size: 1.05rem; max-width: 750px; margin: 0 auto 1rem auto; color: #8b949e; line-height: 1.6; text-align: justify;">
+    My current focus integrates <strong>local AI agents and LLMs</strong> (CrewAI, Ollama) to build precise, hallucination-free data solutions. My complementary background in <strong>Public Accounting</strong> is my greatest competitive advantage: I translate complex business requirements into scalable, efficient, and results-driven code.
+  </p>
+
+  [![🚀 View My Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-darwinjcn.github.io-a3e635?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Formal Education</h3>
+      <ul>
+        <li><strong>B.Sc. in Computer Engineering</strong> (2025 - Present)<br><em>UNETI, Caracas</em></li>
+        <li><strong>Associate Degree in Computer Science</strong> (2023 - 2025)<br><em>UNETI, Caracas</em></li>
+        <li><strong>B.Sc. in Public Accounting</strong> (2019 - 2023)<br><em>UNEXCA, Caracas</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Certifications</h3>
+      <ul>
+        <li>☁️ <strong>Cloud:</strong> AWS Technical Essentials, Microsoft Azure Fundamentals (AZ-900)</li>
+        <li>📊 <strong>Data:</strong> Advanced Power BI, Python for Data Science</li>
+        <li>🔄 <strong>Methodologies:</strong> Agile Explorer, n8n Automations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Full-Stack Development
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+</div>
+
+### 📊 Data & BI
+<div align="center">
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+</div>
+
+### ☁️ DevOps & Tools
+<div align="center">
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white)](#)
+
+</div>
+
+### 🤖 AI & Agents
+<div align="center">
+
+[![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logo=python&logoColor=white)](https://www.crewai.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table style="font-size: 13px; width: 100%;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/darwinjcn/analista-financiero-local-ia">local-financial-analyst-ai</a></h3>
+      <p>100% local AI agent that reads financial statements (PDF/Excel), extracts figures, calculates ratios in Python, and drafts reports with CrewAI. Designed to run without a GPU.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/darwinjcn/local-text-to-sql-agent">local-text-to-sql-agent</a></h3>
+      <p>Local AI agent that translates natural language to SQL. Hybrid architecture: CrewAI orchestrates, Python/Pandas executes, and Qwen 2.5 (Ollama) drafts, ensuring zero hallucinations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ <a href="https://github.com/darwinjcn/gcs-project">gcs-project</a></h3>
+      <p>Centralized platform for CANTV unifying satellite failure and maintenance management across 3 operational sites, featuring PDF reports and event traceability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 <a href="https://github.com/darwinjcn/inventario-farmacia">pharmacy-inventory</a></h3>
+      <p>System with real-time stock control, batch traceability, and role management. Engineering project focused on real business rules, data validation, and query optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">university-dining</a></h3>
+      <p>CRUD for 5 entities, real-time dashboard, and REST API for the comprehensive administration of students, dishes, staff, and weekly menus.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍫 <a href="https://github.com/darwinjcn/wonka-sql">wonka-sql</a></h3>
+      <p>Database normalization up to 3NF, implementation of materialized views for traceability reports, and optimization of complex query performance (DML/DDL).</p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-projects</a></h3>
+      <p>Interactive dashboard design for financial analysis, retail expansion, and logistics fleet control, including ETL transformation and star schema modeling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power%20bi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛽ <a href="https://github.com/darwinjcn/sistema-gestion-combustible">fuel-management-system</a></h3>
+      <p>Client-server application with RESTful API and JWT authentication for fuel management and control, complete with UML documentation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/darwinjcn/crypto-monitor">crypto-monitor</a></h3>
+      <p>Real-time crypto asset monitoring platform. Implementation of Web Workers for client-side performance optimization and concurrency handling in data flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
+      <p>Backend with dynamic routing, strict typing, and dockerized architecture. Technical laboratory on REST APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">php-bootstrap-js-web</a></h3>
+      <p>Full-stack web system with user authentication and product CRUD. Real-time validations and JSON persistence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
+      <p>Robust CRUD system for user management. Create, Read, Update, and Delete operations using native Python and SQLite3.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/darwinjcn/excel-proyectos">excel-projects</a></h3>
+      <p>Collection of data analysis, KPIs, and business intelligence projects featuring interactive dashboards and slicers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ngo-ayuda-accion</a></h3>
+      <p>SQL database for "Ayuda en Acción" NGO. Management of development and humanitarian aid projects.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">health-system</a></h3>
+      <p>Platform for digital medical appointment management and Role-Based Access Control (RBAC) developed for CANTV.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
+      <p>Classic "Tic-Tac-Toe" console game. Robust input validation, win/loss logic, and random opponent.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
+      <p>Interactive guide to the 10 essential Linux commands for Computer Engineers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/darwinjcn/mi-app-ionic-app">my-ionic-app</a></h3>
+      <p>Cross-platform mobile application with side menu and structured navigation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Contact & Networks
+
+<div align="center">
+
+Let's connect! I'm always open to discussing new collaboration opportunities.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colmenaresdarwin06@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584265152896)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-colmenares/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darwinjcn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darwinjcn.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darwinjcn&style=flat-square&color=blue" alt="Profile Views" />
+</div>
