@@ -1,6 +1,5 @@
 <div align="center">
   
-  <!-- Language Selector -->
   <div style="margin-bottom: 1rem;">
     <a href="README.md">
       <img src="https://img.shields.io/badge/🇪🇸_Español-FFD700?style=for-the-badge&logo=google-translate&logoColor=black" alt="Español" />
@@ -135,6 +134,36 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎫 <a href="https://github.com/darwinjcn/local-ai-helpdesk">local-ai-helpdesk</a></h3>
+      <p>Intelligent IT ticket triage system using local LLM (Qwen), RAG, and strict validation (Pydantic) to guarantee zero hallucinations. Optimized for 16GB RAM.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/darwinjcn/chatbot-faq-ia-trade">chatbot-faq-ia-trade</a></h3>
+      <p>AI-powered FAQ Chatbot for local business customer support. Contextualized responses with strict System Prompt and zero cost using OpenRouter.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/darwinjcn/biblioteca-laravel-api">biblioteca-laravel-api</a></h3>
+      <p>REST API for municipal library management. CRUD for books and categories with robust validations (Form Requests) and business rules in Laravel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=api&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🛰️ <a href="https://github.com/darwinjcn/gcs-project">gcs-project</a></h3>
       <p>Centralized platform for CANTV unifying satellite failure and maintenance management across 3 operational sites, featuring PDF reports and event traceability.</p>
       <p>
@@ -143,6 +172,8 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💊 <a href="https://github.com/darwinjcn/inventario-farmacia">pharmacy-inventory</a></h3>
       <p>System with real-time stock control, batch traceability, and role management. Engineering project focused on real business rules, data validation, and query optimization.</p>
@@ -152,8 +183,6 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://github.com/darwinjcn/comedor-universitario">university-dining</a></h3>
       <p>CRUD for 5 entities, real-time dashboard, and REST API for the comprehensive administration of students, dishes, staff, and weekly menus.</p>
@@ -164,6 +193,8 @@
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🍫 <a href="https://github.com/darwinjcn/wonka-sql">wonka-sql</a></h3>
       <p>Database normalization up to 3NF, implementation of materialized views for traceability reports, and optimization of complex query performance (DML/DDL).</p>
@@ -172,8 +203,6 @@
         <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=database&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/darwinjcn/powerbi-proyectos">powerbi-projects</a></h3>
       <p>Interactive dashboard design for financial analysis, retail expansion, and logistics fleet control, including ETL transformation and star schema modeling.</p>
@@ -183,6 +212,8 @@
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⛽ <a href="https://github.com/darwinjcn/sistema-gestion-combustible">fuel-management-system</a></h3>
       <p>Client-server application with RESTful API and JWT authentication for fuel management and control, complete with UML documentation.</p>
@@ -192,8 +223,6 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/darwinjcn/crypto-monitor">crypto-monitor</a></h3>
       <p>Real-time crypto asset monitoring platform. Implementation of Web Workers for client-side performance optimization and concurrency handling in data flows.</p>
@@ -202,6 +231,8 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧪 <a href="https://github.com/darwinjcn/node-express-typescript-logic">node-express-typescript-logic</a></h3>
       <p>Backend with dynamic routing, strict typing, and dockerized architecture. Technical laboratory on REST APIs.</p>
@@ -211,8 +242,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/darwinjcn/proyecto-web-php-bootstrap-javascript">php-bootstrap-js-web</a></h3>
       <p>Full-stack web system with user authentication and product CRUD. Real-time validations and JSON persistence.</p>
@@ -222,6 +251,8 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🐍 <a href="https://github.com/darwinjcn/crud-python-sqlite">crud-python-sqlite</a></h3>
       <p>Robust CRUD system for user management. Create, Read, Update, and Delete operations using native Python and SQLite3.</p>
@@ -230,8 +261,6 @@
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/darwinjcn/excel-proyectos">excel-projects</a></h3>
       <p>Collection of data analysis, KPIs, and business intelligence projects featuring interactive dashboards and slicers.</p>
@@ -240,6 +269,8 @@
         <img src="https://img.shields.io/badge/Data-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤝 <a href="https://github.com/darwinjcn/sql-ong-ayuda-accion">sql-ngo-ayuda-accion</a></h3>
       <p>SQL database for "Ayuda en Acción" NGO. Management of development and humanitarian aid projects.</p>
@@ -248,8 +279,6 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/darwinjcn/sistema_salud">health-system</a></h3>
       <p>Platform for digital medical appointment management and Role-Based Access Control (RBAC) developed for CANTV.</p>
@@ -258,6 +287,8 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/darwinjcn/tic-tac-toe">tic-tac-toe</a></h3>
       <p>Classic "Tic-Tac-Toe" console game. Robust input validation, win/loss logic, and random opponent.</p>
@@ -266,8 +297,6 @@
         <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🐧 <a href="https://github.com/darwinjcn/linux-terminal-guide">linux-terminal-guide</a></h3>
       <p>Interactive guide to the 10 essential Linux commands for Computer Engineers.</p>
@@ -277,7 +306,9 @@
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
       <h3>📱 <a href="https://github.com/darwinjcn/mi-app-ionic-app">my-ionic-app</a></h3>
       <p>Cross-platform mobile application with side menu and structured navigation.</p>
       <p>
